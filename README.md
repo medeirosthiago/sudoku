@@ -8,6 +8,6 @@ The idea is that I already have a ready and steady 9x9 sudo matrix, using some f
 I created a very simple interface for user interaction.
 
 ## Sudoku
-![image]](https://cloud.githubusercontent.com/assets/4070127/5074510/44719386-6e72-11e4-8506-454710f91f33.png)
+![image](https://cloud.githubusercontent.com/assets/4070127/5074510/44719386-6e72-11e4-8506-454710f91f33.png)
 
 ## Sudoku Solution
