@@ -3,7 +3,7 @@
 College exercise to practice C functions, pointer and file creation and manipulation.
 This is a simple "generator" of a 9x9 matrix for sudoku game.
 
-The idea is that I already have a ready and steady 9x9 sudo matrix, using some functions it's possible to shuffle this matrix.
+The idea is that I already have a ready and steady 9x9 sudoku matrix, using some functions it's possible to shuffle this matrix. :)
 
 ## Simple Interface
 I created a very simple interface for user interaction.
